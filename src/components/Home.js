@@ -12,13 +12,13 @@ function Home() {
           id='123'
           title='The Lean Startup: How Constant Innovation Creates Radically Successful Bussinness Paperback'
           price={11.96}
-          rating={5}
+          rating={4}
           image='https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_B01,204,203,200_.jpg'
         />
         <Product
           id='124'
           title='The Lean Startup: How Constant Innovation Creates Radically Successful Bussinness Paperback'
-          price={11.96}
+          price={12.96}
           rating={5}
           image='https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_B01,204,203,200_.jpg'
         />
@@ -28,22 +28,22 @@ function Home() {
         <Product
           id='125'
           title='The Lean Startup: How Constant Innovation Creates Radically Successful Bussinness Paperback'
-          price={11.96}
-          rating={5}
+          price={10.96}
+          rating={3}
           image='https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_B01,204,203,200_.jpg'
         />
         <Product
           id='126'
           title='The Lean Startup: How Constant Innovation Creates Radically Successful Bussinness Paperback'
-          price={11.96}
-          rating={5}
+          price={13.96}
+          rating={2}
           image='https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_B01,204,203,200_.jpg'
         />
         <Product
           id='127'
           title='The Lean Startup: How Constant Innovation Creates Radically Successful Bussinness Paperback'
-          price={11.96}
-          rating={5}
+          price={15.96}
+          rating={3}
           image='https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_B01,204,203,200_.jpg'
         />
       </div>
@@ -52,8 +52,8 @@ function Home() {
         <Product
           id='128'
           title='The Lean Startup: How Constant Innovation Creates Radically Successful Bussinness Paperback'
-          price={11.96}
-          rating={5}
+          price={17.96}
+          rating={4}
           image='https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_B01,204,203,200_.jpg'
         />
       </div>
